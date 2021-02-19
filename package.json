@@ -1,0 +1,26 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple boilerplate for REST API based on Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "rest",
+    "boilerplate"
+  ],
+  "author": "Nicolò Rebaioli <niko.reba@gmail.com> (https://rebaioli.altervista.org/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Samurai016/express-boilerplate.git"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-sslify": "^1.2.0"
+  }
+}
